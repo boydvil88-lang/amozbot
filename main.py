@@ -11,7 +11,7 @@ from flask import Flask, request, render_template_string
 # ==========================================
 # ۱. تنظیمات اصلی سیستم (Configuration)
 # ==========================================
-TOKEN = "9213797247:AAHVD9o6rHFdsVDP3qHmf2T3CWOAQzehbmA"  # توکن ربات
+TOKEN = "9064316900:AAGJYseRH6G53osbsJ1F51ueV6dAyw2ajQU"  # توکن ربات
 ADMIN_IDS = [7037291902]  # آیدی عددی ادمین (یا ادمین‌ها)؛ برای دریافت آیدی خود از ربات @userinfobot استفاده کنید
 COURSE_CHANNEL_ID = "@THERYANC"  # آیدی کانال دوره برای جوین اجباری (ربات باید در کانال ادمین باشد)
 COURSE_CHANNEL_LINK = "https://t.me/theRyanc"
