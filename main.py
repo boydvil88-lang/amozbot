@@ -12,7 +12,7 @@ from flask import Flask, request, render_template_string
 # ==========================================
 # ۱. تنظیمات اصلی سیستم (Configuration)
 # ==========================================
-TOKEN = "9064316900:AAGJYseRH6G53osbsJ1F51ueV6dAyw2ajQU"
+TOKEN = "9137134908:AAFPFke-kIx2s7_8Pt60T71Dqd_pxPu0MO8"
 ADMIN_IDS = [7037291902]          # آیدی عددی ادمین‌ها (مثال برای چند ادمین: [7037291902, 123456789])
 ADMIN_GROUP_ID = -1000000000000   # آیدی گروه ادمین‌ها (یا داخل گروه دستور /setgroup را بزنید)
 COURSE_CHANNEL_ID = "@THERYANC"
