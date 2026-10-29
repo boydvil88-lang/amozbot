@@ -12,11 +12,11 @@ from flask import Flask, request, render_template_string
 # ==========================================
 # ۱. تنظیمات اصلی سیستم (Configuration)
 # ==========================================
-TOKEN = "YOUR_BOT_TOKEN"                  # توکن ربات
-ADMIN_IDS = [123456789, 987654321]        # آیدی عددی ادمین‌ها (با کاما جدا کنید)
-COURSE_CHANNEL_ID = "@YOUR_CHANNEL_ID"    # آیدی کانال دوره برای جوین اجباری
-COURSE_CHANNEL_LINK = "https://t.me/YOUR_CHANNEL_ID" 
-SUPPORT_USERNAME = "@Support_ID"          # آیدی پشتیبانی دوره
+TOKEN = "9064316900:AAGJYseRH6G53osbsJ1F51ueV6dAyw2ajQU"                  # توکن ربات
+ADMIN_IDS = [7037291902]        # آیدی عددی ادمین‌ها (با کاما جدا کنید)
+COURSE_CHANNEL_ID = "@THERYANC"    # آیدی کانال دوره برای جوین اجباری
+COURSE_CHANNEL_LINK = "https://t.me/theRyanc" 
+SUPPORT_USERNAME = "@loopfine"          # آیدی پشتیبانی دوره
 WEB_ADMIN_PASS = "123456"                 # رمز عبور داشبورد وب
 
 bot = telebot.TeleBot(TOKEN)
